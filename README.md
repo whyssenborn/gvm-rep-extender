@@ -3,4 +3,4 @@ This is a PoC for a small report extender which can be used by the Greenbone Sec
 To run this code please use the docker image from immauss/openvas.
 
 
-Do NOT run this code in production, because the use of that docker image is not 
+Do NOT run this code in production.
